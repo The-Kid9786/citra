@@ -91,3 +91,6 @@
 [submodule "oaknut"]
 	path = externals/oaknut
 	url = https://github.com/merryhime/oaknut.git
+[submodule "libRetroReversing"]
+	path = libRetroReversing
+	url = https://github.com/RetroReversing/libRetroReversing.git
